@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T09:26:22.830Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="PpSBvBPEo08KDkxlOEbe" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T09:27:12.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="qhFHPVREQFHAmXVR7z_W" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -338,12 +338,12 @@
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="235" y="500" as="sourcePoint" />
+            <mxPoint x="235" y="700" as="sourcePoint" />
             <mxPoint x="234.5" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="230" y="150" width="10" height="210" as="geometry" />
+          <mxGeometry x="230" y="150" width="10" height="490" as="geometry" />
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-26" value="&lt;div&gt;Auction&lt;/div&gt;&lt;div&gt;Controller&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="20" width="70" height="80" as="geometry" />
@@ -447,6 +447,15 @@
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-18" value="validate failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-4">
           <mxGeometry y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-19" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="318.81999999999994" as="sourcePoint" />
+            <mxPoint x="220" y="318.81999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-20" value="3: failed bid message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-4">
+          <mxGeometry x="60" y="298.81999999999994" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="LUF1m8RHw39wmX4psC24-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
