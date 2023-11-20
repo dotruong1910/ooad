@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T12:05:16.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="quhRE9KqD87xfkRDtMLG" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:05:47.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="5AqrXkQel0KfPfvby7zv" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1489" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -375,7 +375,7 @@
         <mxCell id="LUF1m8RHw39wmX4psC24-5" value="validate sucess" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LUF1m8RHw39wmX4psC24-4" vertex="1">
           <mxGeometry x="-5" y="40" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LUF1m8RHw39wmX4psC24-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://send bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="LUF1m8RHw39wmX4psC24-4" edge="1" target="LUF1m8RHw39wmX4psC24-3">
+        <mxCell id="LUF1m8RHw39wmX4psC24-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://send bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="LUF1m8RHw39wmX4psC24-4" edge="1" target="LUF1m8RHw39wmX4psC24-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="290" y="30" as="sourcePoint" />
             <mxPoint x="460" y="30" as="targetPoint" />
@@ -390,13 +390,13 @@
         <mxCell id="LUF1m8RHw39wmX4psC24-14" value="user not already make a bid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LUF1m8RHw39wmX4psC24-7" vertex="1">
           <mxGeometry y="120" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LUF1m8RHw39wmX4psC24-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://create new bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;" parent="LUF1m8RHw39wmX4psC24-7" edge="1">
+        <mxCell id="LUF1m8RHw39wmX4psC24-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://create new bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="LUF1m8RHw39wmX4psC24-7" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="480" y="129.99999999999997" as="sourcePoint" />
             <mxPoint x="690" y="129.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUF1m8RHw39wmX4psC24-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://modify bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;" parent="LUF1m8RHw39wmX4psC24-7" edge="1">
+        <mxCell id="LUF1m8RHw39wmX4psC24-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://modify bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="LUF1m8RHw39wmX4psC24-7" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="480" y="20" as="sourcePoint" />
             <mxPoint x="690" y="20" as="targetPoint" />
