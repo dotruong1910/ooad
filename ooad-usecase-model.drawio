@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T09:29:53.778Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="CPtrmENrBCUSxFitl-nc" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T09:31:21.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="XzlIrDEKlbr1RDkCNCFh" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -426,8 +426,8 @@
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1.006;entryY=0.685;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.002;exitY=0.678;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="5.684341886080802e-14" y="129.99999999999997" as="sourcePoint" />
-            <mxPoint x="423.36000000000024" y="131.2600000000002" as="targetPoint" />
+            <mxPoint x="-3.359999999999943" y="109.99999999999997" as="sourcePoint" />
+            <mxPoint x="420.0000000000002" y="111.26000000000019" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-14" value="user not already make a bid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-7">
@@ -435,8 +435,14 @@
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://create new bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="140" y="164.40999999999997" as="sourcePoint" />
-            <mxPoint x="350" y="164.40999999999997" as="targetPoint" />
+            <mxPoint x="140" y="139.99999999999997" as="sourcePoint" />
+            <mxPoint x="350" y="139.99999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="180" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.823;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-4">
@@ -457,6 +463,15 @@
         <mxCell id="LUF1m8RHw39wmX4psC24-20" value="3: failed bid message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-4">
           <mxGeometry x="60" y="298.81999999999994" width="160" height="10" as="geometry" />
         </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="65" y="129.99999999999994" as="sourcePoint" />
+            <mxPoint x="220" y="129.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-22" value="3: sucess bid message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-4">
+          <mxGeometry x="60" y="109.99999999999994" width="160" height="10" as="geometry" />
+        </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="LUF1m8RHw39wmX4psC24-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="695" y="450" as="sourcePoint" />
@@ -471,6 +486,12 @@
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="690" y="370" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="1" source="LUF1m8RHw39wmX4psC24-3" target="LUF1m8RHw39wmX4psC24-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="330" as="sourcePoint" />
+            <mxPoint x="510" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
