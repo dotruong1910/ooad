@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T11:08:35.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="a-TPs6jupUOuUPyM5pUd" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:05:16.347Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="quhRE9KqD87xfkRDtMLG" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1489" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XtPMB1iAXtwdAWICfKZN" name="make a bid use-case relization">
-    <mxGraphModel dx="1042" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1226" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,7 +324,7 @@
             <mxPoint x="210" y="-81" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-17" value="1:// go to auction item link" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;" parent="1" edge="1" target="A_Sfa6XvdIitcTxe5b_t-19">
+        <mxCell id="A_Sfa6XvdIitcTxe5b_t-17" value="1:// go to auction item link" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" edge="1" target="A_Sfa6XvdIitcTxe5b_t-19">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="120" y="170" as="sourcePoint" />
             <mxPoint x="275" y="170" as="targetPoint" />
@@ -345,7 +345,7 @@
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-27" value="Auction" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="50" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-28" value="2:// request to make a bid" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;" parent="1" edge="1" target="A_Sfa6XvdIitcTxe5b_t-19">
+        <mxCell id="A_Sfa6XvdIitcTxe5b_t-28" value="2:// request to make a bid" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" edge="1" target="A_Sfa6XvdIitcTxe5b_t-19">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="120" y="199.5" as="sourcePoint" />
             <mxPoint x="275" y="199.5" as="targetPoint" />
