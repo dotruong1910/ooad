@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T09:31:21.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="XzlIrDEKlbr1RDkCNCFh" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T09:32:58.214Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="1DxkAcftgdcOkfd68sZU" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -444,6 +444,12 @@
             <mxPoint x="140" y="180" as="sourcePoint" />
             <mxPoint x="350" y="180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-25" value="modify bid sucess message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-7">
+          <mxGeometry x="170" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LUF1m8RHw39wmX4psC24-26" value="create bid sucess message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-7">
+          <mxGeometry x="170" y="155" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-17" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.823;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.001;entryY=0.826;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
