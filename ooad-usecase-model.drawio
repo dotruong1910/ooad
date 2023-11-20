@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T09:44:03.570Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="-D2531-OegSCjHCb3uHP" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T09:44:23.558Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="acE3q4f4IfbieOX5D83H" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XtPMB1iAXtwdAWICfKZN" name="make a bid use-case relization">
-    <mxGraphModel dx="700" dy="1541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -439,9 +439,9 @@
             <mxPoint x="350" y="139.99999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LUF1m8RHw39wmX4psC24-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7">
+        <mxCell id="LUF1m8RHw39wmX4psC24-24" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7" target="LUF1m8RHw39wmX4psC24-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="180" as="sourcePoint" />
+            <mxPoint x="150" y="180" as="sourcePoint" />
             <mxPoint x="350" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -451,9 +451,9 @@
         <mxCell id="LUF1m8RHw39wmX4psC24-26" value="create bid sucess message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUF1m8RHw39wmX4psC24-7">
           <mxGeometry x="170" y="155" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LUF1m8RHw39wmX4psC24-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7">
+        <mxCell id="LUF1m8RHw39wmX4psC24-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=openThin;startFill=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-7" target="LUF1m8RHw39wmX4psC24-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="80" as="sourcePoint" />
+            <mxPoint x="150" y="80" as="sourcePoint" />
             <mxPoint x="350" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
