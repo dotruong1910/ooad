@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T11:08:21.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="XbGoxLXSFlM56HRvRqpv" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T11:08:35.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="a-TPs6jupUOuUPyM5pUd" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1489" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -340,10 +340,10 @@
           <mxGeometry x="290" y="150" width="10" height="530" as="geometry" />
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-26" value="&lt;div&gt;Auction&lt;/div&gt;&lt;div&gt;Controller&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="470" y="30" width="70" height="80" as="geometry" />
+          <mxGeometry x="470" y="40" width="70" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-27" value="Auction" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="35" width="80" height="75" as="geometry" />
+          <mxGeometry x="690" y="50" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-28" value="2:// request to make a bid" style="html=1;verticalAlign=bottom;endArrow=openThin;curved=0;rounded=0;endFill=0;" parent="1" edge="1" target="A_Sfa6XvdIitcTxe5b_t-19">
           <mxGeometry width="80" relative="1" as="geometry">
