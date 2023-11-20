@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-20T12:20:06.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Nps0Y-XEfYmR-2eggwy5" version="22.1.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-20T12:20:21.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="RPMYo_IzpnVdodQDq0Ab" version="22.1.3" type="github" pages="4">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1489" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -373,7 +373,7 @@
           <mxGeometry x="29" y="300" width="770" height="370" as="geometry" />
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-5" value="[validate sucess]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LUF1m8RHw39wmX4psC24-4" vertex="1">
-          <mxGeometry x="-5" y="40" width="60" height="30" as="geometry" />
+          <mxGeometry x="1" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4://send bid (info)&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" parent="LUF1m8RHw39wmX4psC24-4" edge="1" target="LUF1m8RHw39wmX4psC24-3">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-18" value="[validate failed]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="LUF1m8RHw39wmX4psC24-4" vertex="1">
-          <mxGeometry x="-5" y="320" width="60" height="30" as="geometry" />
+          <mxGeometry y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUF1m8RHw39wmX4psC24-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.004;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" parent="LUF1m8RHw39wmX4psC24-4" source="LUF1m8RHw39wmX4psC24-7" edge="1" target="LUF1m8RHw39wmX4psC24-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -469,8 +469,8 @@
         </mxCell>
         <mxCell id="eYkvSmhiPT8WThOXJCdX-16" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;failed bid message&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=openThin;startFill=0;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="LUF1m8RHw39wmX4psC24-4">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="91" y="360" as="sourcePoint" />
-            <mxPoint x="281" y="360" as="targetPoint" />
+            <mxPoint x="91" y="350" as="sourcePoint" />
+            <mxPoint x="281" y="350" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
