@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T20:13:21.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="QE_kwD8hvbVaAMJf7j3L" version="22.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-30T20:15:25.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="RzEauKt6s6tjWkx0aGfH" version="22.1.5" type="github" pages="10">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1124,9 +1124,6 @@
         <mxCell id="Yg6muddmuLJJ05Mzqv2x-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="309" y="150" width="10" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="Yg6muddmuLJJ05Mzqv2x-9" value="Auction" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="709" y="50" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="Yg6muddmuLJJ05Mzqv2x-10" value="2:// request to make a bid" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1" target="Yg6muddmuLJJ05Mzqv2x-7">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="120" y="199.5" as="sourcePoint" />
@@ -1287,6 +1284,9 @@
         </mxCell>
         <mxCell id="Yg6muddmuLJJ05Mzqv2x-40" value=":AuctionController" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="464" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Yg6muddmuLJJ05Mzqv2x-41" value=":IAuctionItemDatabase" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
