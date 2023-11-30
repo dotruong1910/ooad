@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T17:25:21.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="dWHyf5aJaN-iidIxHuwz" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-30T17:27:52.927Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="MQWDialMN3dBkmAC9HpQ" version="22.1.5" type="github" pages="5">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -504,7 +504,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="E6zUE2K8cISngG1F36R1" name="Page-5">
-    <mxGraphModel dx="820" dy="1595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -587,8 +587,32 @@
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-52" value="2:// &lt;font face=&quot;Tahoma&quot;&gt;send auction info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
-            <mxPoint x="290" y="70" as="sourcePoint" />
-            <mxPoint x="490" y="70" as="targetPoint" />
+            <mxPoint x="290" y="60" as="sourcePoint" />
+            <mxPoint x="490" y="60" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-54" value="2:// &lt;font face=&quot;Tahoma&quot;&gt;send auction info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14" target="_7mDIpIKypFSmDyBBfQW-55">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="501" y="70" as="sourcePoint" />
+            <mxPoint x="701" y="70" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-55" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+          <mxGeometry x="710" y="60" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-58" value="3://approve success message" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="500" y="110" as="sourcePoint" />
+            <mxPoint x="710" y="110" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-60" value="3://approve success message" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="91" y="140" as="sourcePoint" />
+            <mxPoint x="280" y="140" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -628,9 +652,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7mDIpIKypFSmDyBBfQW-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="_7mDIpIKypFSmDyBBfQW-55">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="743.58" y="333" as="sourcePoint" />
+            <mxPoint x="744" y="490" as="sourcePoint" />
             <mxPoint x="743.58" y="135" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -656,6 +680,19 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="160" y="-70" as="sourcePoint" />
             <mxPoint x="349" y="-70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="_7mDIpIKypFSmDyBBfQW-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="744" y="490" as="sourcePoint" />
+            <mxPoint x="743.58" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-59" value="3://approve success message" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1" source="_7mDIpIKypFSmDyBBfQW-7" target="_7mDIpIKypFSmDyBBfQW-38">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="320" y="430" as="sourcePoint" />
+            <mxPoint x="530" y="430" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
