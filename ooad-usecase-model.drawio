@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T20:23:31.234Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="nDg4YkioztxL1F4u7Rhb" version="22.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-30T20:24:52.251Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="xZWsA0y15FAH8DfYDGqi" version="22.1.5" type="github" pages="12">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1528,6 +1528,182 @@
           <mxGeometry x="464" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rn_YMRtFpDk5TgYH-QR1-1" value=":IAuctionItemDatabase" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="684" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RqIYmwYi8EOqLtMx1XLi" name="manage user seq des">
+    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="680" as="sourcePoint" />
+            <mxPoint x="115" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-2" value=":Manager" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="60" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-4" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="110" y="140" width="10" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-5" value="1:// go to&lt;font face=&quot;Tahoma&quot;&gt; list account page&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120.00000000000011" y="179.99999999999977" as="sourcePoint" />
+            <mxPoint x="309" y="179.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.47" y="685" as="sourcePoint" />
+            <mxPoint x="313.76000000000005" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="309" y="150" width="10" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="JlX5I7X5AdzYk2cLoFgh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="720" as="sourcePoint" />
+            <mxPoint x="524" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-10" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="519" y="322.5" width="10" height="97.5" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2://get auccounts&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1" target="JlX5I7X5AdzYk2cLoFgh-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="319" y="199.9999999999999" as="sourcePoint" />
+            <mxPoint x="500" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-12" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2://get accounts&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1" source="JlX5I7X5AdzYk2cLoFgh-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="210" as="sourcePoint" />
+            <mxPoint x="740" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-13" value="3:// accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="240" as="sourcePoint" />
+            <mxPoint x="738" y="240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-14" value="3://accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="318.9999999999998" y="260" as="sourcePoint" />
+            <mxPoint x="518.9999999999998" y="260" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-15" value="3:// account list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="309" y="280" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="743.5799999999999" y="360" as="sourcePoint" />
+            <mxPoint x="743.58" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-17" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="739" y="190" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-18" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1" target="JlX5I7X5AdzYk2cLoFgh-19">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="210" as="sourcePoint" />
+            <mxPoint x="740" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="519" y="180" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-20" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="JlX5I7X5AdzYk2cLoFgh-10" target="JlX5I7X5AdzYk2cLoFgh-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524.8799999999999" y="693.8900000000002" as="sourcePoint" />
+            <mxPoint x="524.8799999999999" y="276.1099999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="JlX5I7X5AdzYk2cLoFgh-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="525" y="680" as="sourcePoint" />
+            <mxPoint x="550" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-22" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="780" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-23" value="Cancel delete account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JlX5I7X5AdzYk2cLoFgh-22">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-24" value="&lt;div&gt;1://&lt;font face=&quot;Tahoma&quot;&gt;click cancel delete account&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Tahoma&quot;&gt;function&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="JlX5I7X5AdzYk2cLoFgh-22" target="JlX5I7X5AdzYk2cLoFgh-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="70" as="sourcePoint" />
+            <mxPoint x="279" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-25" value="3:// account list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="JlX5I7X5AdzYk2cLoFgh-22">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="123" as="sourcePoint" />
+            <mxPoint x="289" y="123" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-26" value="1://&lt;font face=&quot;Tahoma&quot;&gt;click delete account function&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="322.5" as="sourcePoint" />
+            <mxPoint x="309" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-27" value="1://&lt;font face=&quot;Tahoma&quot;&gt;account info&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="319" y="350" as="sourcePoint" />
+            <mxPoint x="519" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-28" value="1://&lt;font face=&quot;Tahoma&quot;&gt;account info&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="360" as="sourcePoint" />
+            <mxPoint x="739" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-29" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="739" y="336.25" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-30" value="3:// accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="390" as="sourcePoint" />
+            <mxPoint x="739" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-31" value="3:// accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="319" y="406.25" as="sourcePoint" />
+            <mxPoint x="519" y="406.25" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="743" y="680" as="sourcePoint" />
+            <mxPoint x="743.4699999999998" y="406.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-33" value=":ListUserPage" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="254" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-34" value=":ListUserPage" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="464" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JlX5I7X5AdzYk2cLoFgh-35" value=":ListUserPage" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="684" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
