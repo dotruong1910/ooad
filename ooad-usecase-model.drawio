@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T20:18:45.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="JLtkgSrhAnGjufI1u3_v" version="22.1.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-11-30T20:19:30.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="RlRX98_OK3V4BDW1_9mK" version="22.1.5" type="github" pages="11">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1323,9 +1323,6 @@
         <mxCell id="wV8O4FySQOhMKbsz80YE-7" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="309" y="150" width="10" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-9" value="Auction" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="709" y="50" width="70" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="wV8O4FySQOhMKbsz80YE-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="wV8O4FySQOhMKbsz80YE-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="720" as="sourcePoint" />
@@ -1487,7 +1484,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="wV8O4FySQOhMKbsz80YE-18">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-38" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="wV8O4FySQOhMKbsz80YE-18" target="rn_YMRtFpDk5TgYH-QR1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="744" y="490" as="sourcePoint" />
             <mxPoint x="743.58" y="135" as="targetPoint" />
@@ -1529,6 +1526,9 @@
         </mxCell>
         <mxCell id="wV8O4FySQOhMKbsz80YE-46" value=":AuctionController" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="464" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rn_YMRtFpDk5TgYH-QR1-1" value=":IAuctionItemDatabase" style="fontStyle=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="684" y="80" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
