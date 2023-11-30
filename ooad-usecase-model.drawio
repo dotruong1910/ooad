@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T17:22:01.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="XgoILjrLNmicyoc1HK9x" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-30T17:23:09.362Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="njzAjG-Q6gDR69D5XiCj" version="22.1.5" type="github" pages="5">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -553,7 +553,7 @@
         <mxCell id="_7mDIpIKypFSmDyBBfQW-14" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=50;height=30;" vertex="1" parent="1">
           <mxGeometry x="29" y="300" width="770" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="_7mDIpIKypFSmDyBBfQW-15" value="[validate sucessed]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-15" value="[approve auction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_7mDIpIKypFSmDyBBfQW-14">
           <mxGeometry x="1" y="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.823;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
@@ -562,8 +562,8 @@
             <mxPoint x="771" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7mDIpIKypFSmDyBBfQW-33" value="[validate failed]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_7mDIpIKypFSmDyBBfQW-14">
-          <mxGeometry y="310" width="60" height="30" as="geometry" />
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-33" value="[disapprove auction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+          <mxGeometry x="11" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0.536;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
