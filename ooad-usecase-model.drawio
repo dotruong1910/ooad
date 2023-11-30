@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T17:31:52.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="mDJiulk_0BttGqTVRN4p" version="22.1.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-11-30T17:32:26.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="yztuGTYPcSVocmdeXzha" version="22.1.5" type="github" pages="5">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -565,13 +565,6 @@
             <mxPoint x="771" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_7mDIpIKypFSmDyBBfQW-35" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;5://failed bid message&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="91" y="350" as="sourcePoint" />
-            <mxPoint x="281" y="350" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-51" value="1://&lt;font face=&quot;Tahoma&quot;&gt;click approve auction&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
             <mxPoint x="91" y="40" as="sourcePoint" />
@@ -635,8 +628,8 @@
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-67" value="3://approve success message" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
-            <mxPoint x="291" y="284" as="sourcePoint" />
-            <mxPoint x="491" y="284" as="targetPoint" />
+            <mxPoint x="291" y="270" as="sourcePoint" />
+            <mxPoint x="491" y="270" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -667,6 +660,13 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="715" y="420" as="sourcePoint" />
             <mxPoint x="714.57" y="285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-72" value="3://approve success message" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="_7mDIpIKypFSmDyBBfQW-14">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="91" y="297.5" as="sourcePoint" />
+            <mxPoint x="279.9999999999998" y="297.5" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-38" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
