@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T19:47:30.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="OKb7_m9LOQCMDrPY_q1o" version="22.1.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-11-30T19:57:17.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="t6Xvcw4mQlsjNXypi1ID" version="22.1.5" type="github" pages="8">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -939,22 +939,37 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZZ1s7wlpiF07be58ZOjk-1" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;MakeABidForm" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="110" width="190" height="150" as="geometry" />
+          <mxGeometry x="-770" y="100" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZZ1s7wlpiF07be58ZOjk-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ZZ1s7wlpiF07be58ZOjk-1">
           <mxGeometry y="55" width="190" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="ZZ1s7wlpiF07be58ZOjk-8" value="&lt;div&gt;// show makeABidForm()&lt;/div&gt;&lt;div&gt;// show makeABidSucessMsg()&lt;br&gt;&lt;/div&gt;&lt;div&gt;// show makeABidFailedMsg()&lt;/div&gt;&lt;div&gt;// show unvalidateField()&lt;br&gt;&lt;/div&gt;&lt;div&gt;// validate()&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ZZ1s7wlpiF07be58ZOjk-1">
+        <mxCell id="ZZ1s7wlpiF07be58ZOjk-8" value="&lt;div&gt;+ show makeABidForm()&lt;/div&gt;&lt;div&gt;+ show makeABidSucessMsg()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ show makeABidFailedMsg()&lt;/div&gt;&lt;div&gt;+ show unvalidatedField()&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ validate()&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ZZ1s7wlpiF07be58ZOjk-1">
           <mxGeometry y="63" width="190" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="nSKSjZ4qV0vcA8RyrhOn-1" value="&amp;lt;&amp;lt;boundary&amp;gt;&amp;gt;&lt;br&gt;&lt;div&gt;Auction&lt;/div&gt;&lt;div&gt;Controller&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="110" width="190" height="187" as="geometry" />
+        <mxCell id="nSKSjZ4qV0vcA8RyrhOn-1" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;div&gt;AuctionController&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="130" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="nSKSjZ4qV0vcA8RyrhOn-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="nSKSjZ4qV0vcA8RyrhOn-1">
-          <mxGeometry y="55" width="190" height="45" as="geometry" />
+          <mxGeometry y="55" width="190" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="nSKSjZ4qV0vcA8RyrhOn-3" value="// update or create bid" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="nSKSjZ4qV0vcA8RyrhOn-1">
-          <mxGeometry y="100" width="190" height="87" as="geometry" />
+        <mxCell id="nSKSjZ4qV0vcA8RyrhOn-3" value="// update or create bid(auction id)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="nSKSjZ4qV0vcA8RyrhOn-1">
+          <mxGeometry y="70" width="190" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr8eArKWaauTyI-9Vag-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Entity&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;AuctionItem&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- id: Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- name: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- created_user_id: Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- auction_start_date: DateTime&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- auction_end_date: DateTime&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- type: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- is_approved: Boolean&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- price: Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- description: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- image: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- winner_user_id: Integer&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ create()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ delete()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ update()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="280" width="190" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="kmr8eArKWaauTyI-9Vag-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ZZ1s7wlpiF07be58ZOjk-1" target="nSKSjZ4qV0vcA8RyrhOn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="360" as="sourcePoint" />
+            <mxPoint x="-510" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmr8eArKWaauTyI-9Vag-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="kmr8eArKWaauTyI-9Vag-4" target="nSKSjZ4qV0vcA8RyrhOn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-590" y="280" as="sourcePoint" />
+            <mxPoint x="-390" y="280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
