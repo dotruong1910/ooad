@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T19:23:35.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="6wLcCBtpNkBH2Ugvcoeu" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-30T19:28:42.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Xu5oJDY_YJWTb0lRXpbR" version="22.1.5" type="github" pages="7">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -752,7 +752,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCAzUj1wjYgpGoFuMobt" name="manage account">
-    <mxGraphModel dx="778" dy="1590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1105" dy="1768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,8 +870,59 @@
             <mxPoint x="550" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCcvbmr6txd_6za6xr-K-45" value="Diagram Heading" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
-          <mxGeometry x="80" y="580" width="305" height="65" as="geometry" />
+        <mxCell id="YCcvbmr6txd_6za6xr-K-45" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+          <mxGeometry x="20" y="460" width="780" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-53" value="Cancel delete account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YCcvbmr6txd_6za6xr-K-45">
+          <mxGeometry y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-54" value="&lt;div&gt;1://&lt;font face=&quot;Tahoma&quot;&gt;click cancel delete account&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Tahoma&quot;&gt;function&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="YCcvbmr6txd_6za6xr-K-45" target="l4l25WfJkrJ2JBOk4hCJ-7">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="70" as="sourcePoint" />
+            <mxPoint x="279" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-55" value="3:// account list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="YCcvbmr6txd_6za6xr-K-45">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="100" y="123" as="sourcePoint" />
+            <mxPoint x="289" y="123" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-46" value="1://&lt;font face=&quot;Tahoma&quot;&gt;click delete account function&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="120" y="322.5" as="sourcePoint" />
+            <mxPoint x="309" y="322.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-47" value="1://&lt;font face=&quot;Tahoma&quot;&gt;account info&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="319" y="350" as="sourcePoint" />
+            <mxPoint x="519" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-48" value="1://&lt;font face=&quot;Tahoma&quot;&gt;account info&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="360" as="sourcePoint" />
+            <mxPoint x="739" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-49" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="739" y="336.25" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-50" value="3:// accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="529" y="390" as="sourcePoint" />
+            <mxPoint x="739" y="390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCcvbmr6txd_6za6xr-K-51" value="3:// accounts list" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
+            <mxPoint x="319" y="406.25" as="sourcePoint" />
+            <mxPoint x="519" y="406.25" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
