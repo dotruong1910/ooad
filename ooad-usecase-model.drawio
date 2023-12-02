@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T22:49:42.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="E_Ekd3RFqBhp-HChA5Qt" version="22.1.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-02T22:51:07.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="WVHh6aFHQpZvC6ZwMpLA" version="22.1.5" type="github" pages="13">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XtPMB1iAXtwdAWICfKZN" name="make a bid use-case relization">
-    <mxGraphModel dx="1050" dy="1738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -297,32 +297,8 @@
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-3" value="MakeABid&lt;br&gt;Form" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="263" y="50" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-4" value="Control Object" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="500" y="-110" width="70" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-6" value="Boundary Object" style="shape=umlBoundary;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="-130" width="90" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="110" y="140" width="10" height="550" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-12" value="Lifeline2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="370" y="-380" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" parent="A_Sfa6XvdIitcTxe5b_t-12" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-14" value="Lifeline1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="250" y="-380" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-15" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="A_Sfa6XvdIitcTxe5b_t-14" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="A_Sfa6XvdIitcTxe5b_t-16" value="dispatch" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="130" y="-81" as="sourcePoint" />
-            <mxPoint x="210" y="-81" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="A_Sfa6XvdIitcTxe5b_t-17" value="1:// go to auction item page" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
