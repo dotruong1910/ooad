@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T21:57:10.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="AVeAWlMjBY8knuW6nyiM" version="22.1.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-02T22:18:42.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="gD8Igf8z8sEarrb63FzP" version="22.1.5" type="github" pages="13">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
         <mxCell id="_7mDIpIKypFSmDyBBfQW-8" value="&lt;div&gt;Auction&lt;/div&gt;&lt;div&gt;Controller&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="489" y="40" width="70" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_7mDIpIKypFSmDyBBfQW-9" value="AuctionItems" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_7mDIpIKypFSmDyBBfQW-9" value="AuctionItem" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="709" y="50" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_7mDIpIKypFSmDyBBfQW-13" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" source="_7mDIpIKypFSmDyBBfQW-47" edge="1">
