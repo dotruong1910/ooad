@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T22:48:57.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="VPVKO_3ROJjorBbu_--1" version="22.1.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-12-02T22:49:42.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="E_Ekd3RFqBhp-HChA5Qt" version="22.1.5" type="github" pages="13">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -746,7 +746,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xCAzUj1wjYgpGoFuMobt" name="manage account">
-    <mxGraphModel dx="1235" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -850,12 +850,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="524.8799999999999" y="693.8900000000002" as="sourcePoint" />
             <mxPoint x="524.8799999999999" y="276.1099999999998" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l4l25WfJkrJ2JBOk4hCJ-43" value="1:// go to&lt;font face=&quot;Tahoma&quot;&gt; list auction page&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="160" y="-70" as="sourcePoint" />
-            <mxPoint x="349" y="-70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l4l25WfJkrJ2JBOk4hCJ-45" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" target="l4l25WfJkrJ2JBOk4hCJ-32" edge="1">
