@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T18:46:50.029Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="9d0ZN_CQlKlDA0TMSZLk" version="22.1.5" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-12-03T18:47:21.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4qZdTYArTozg8IvTozSm" version="22.1.5" type="github" pages="21">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -963,7 +963,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="AYYcVphmA_bDi9gMRMbO-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Bid&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;border-color: var(--border-color); margin: 0px 0px 0px 4px;&quot;&gt;- id: Integer&lt;/p&gt;&lt;div&gt;&amp;nbsp;- user_id: Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp;- item_id: integer&lt;/div&gt;&lt;div&gt;&amp;nbsp;- price: integer&lt;br&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getId(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ setId(id: Integer): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getUserId(): Integer&lt;/p&gt;&lt;div&gt;&amp;nbsp;+ setUserId(userID: Integer): void&lt;/div&gt;&lt;div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getItemId(): Integer&lt;/p&gt;&amp;nbsp;+ setItemId(itemID: Integer): void&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ getPrice(): Integer&lt;/div&gt;&lt;div&gt;&amp;nbsp;+ setPrice(price: Integer): void&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="250" width="280" height="510" as="geometry" />
+          <mxGeometry x="550" y="245" width="280" height="370" as="geometry" />
         </mxCell>
         <mxCell id="AYYcVphmA_bDi9gMRMbO-2" value="" style="endArrow=none;html=1;rounded=0;exitX=0.467;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -984,7 +984,7 @@
           <mxGeometry x="220" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AYYcVphmA_bDi9gMRMbO-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;IBidDatabase&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createBid(user_id : Integer, item_id : Integer, price: Integer)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ updateBid(user_id : Integer, item_id : Integer, price: Integer)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getBid(user_id : Integer, item_id : Integer)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="6.25" y="510" width="447.5" height="250" as="geometry" />
+          <mxGeometry x="6.25" y="510" width="447.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="AYYcVphmA_bDi9gMRMbO-8" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-5" target="AYYcVphmA_bDi9gMRMbO-7">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -998,13 +998,13 @@
             <mxPoint x="500" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AYYcVphmA_bDi9gMRMbO-10" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.002;entryY=0.316;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-5" target="AYYcVphmA_bDi9gMRMbO-1">
+        <mxCell id="AYYcVphmA_bDi9gMRMbO-10" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-5" target="AYYcVphmA_bDi9gMRMbO-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="460" as="sourcePoint" />
             <mxPoint x="500" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AYYcVphmA_bDi9gMRMbO-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-7" target="AYYcVphmA_bDi9gMRMbO-1">
+        <mxCell id="AYYcVphmA_bDi9gMRMbO-11" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.862;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AYYcVphmA_bDi9gMRMbO-7" target="AYYcVphmA_bDi9gMRMbO-1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="460" as="sourcePoint" />
             <mxPoint x="500" y="460" as="targetPoint" />
