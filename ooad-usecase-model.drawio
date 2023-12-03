@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T03:59:53.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="AVr3WA0joL370XZmXZOs" version="22.1.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-12-03T04:11:21.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="bUNheS3g58ffSnU7XQGw" version="22.1.5" type="github" pages="14">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1742,16 +1742,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ljCB6P9vVv0pL_9FZat0-1" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;IUserDatabase&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="97" width="140" height="103" as="geometry" />
+          <mxGeometry x="20" y="90" width="250" height="340" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-1">
-          <mxGeometry y="55" width="140" height="8" as="geometry" />
+          <mxGeometry y="55" width="250" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="ljCB6P9vVv0pL_9FZat0-7" value="operations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-1">
-          <mxGeometry y="63" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ljCB6P9vVv0pL_9FZat0-8" value="operation1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-1">
-          <mxGeometry y="83" width="140" height="20" as="geometry" />
+        <mxCell id="ljCB6P9vVv0pL_9FZat0-8" value="&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ createUser(id: Integer,&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;username: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;password: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;fullname: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;email: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;phone_number: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;identity_id: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;address: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;role: String,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;birthday: DateTime&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&lt;br/&gt; updateUser(id: Integer, username: String, password: String, fullname: &lt;br/&gt;String, email: String, phone_number: String, identity_id: String, &lt;br/&gt;address: String, role: String, birthday: DateTime)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+ deleteUser(id: Integer)&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ getUser(username: String, password: String): User&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ checkUser(username: String): Boolean&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-1">
+          <mxGeometry y="63" width="250" height="277" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-20" value="«subsystem»&lt;br&gt;&lt;b&gt;Database&lt;/b&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="324" y="200" width="180" height="90" as="geometry" />
@@ -1771,7 +1768,7 @@
           <mxGeometry x="580" y="300" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-25" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;IAuctionItemDatabase&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="110" y="380" width="140" height="103" as="geometry" />
+          <mxGeometry x="290" y="430" width="140" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-26" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-25">
           <mxGeometry y="55" width="140" height="8" as="geometry" />
@@ -1783,7 +1780,7 @@
           <mxGeometry y="83" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-29" value="&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;IBidDatabase&lt;/b&gt;" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="344" y="440" width="140" height="103" as="geometry" />
+          <mxGeometry x="470" y="420" width="140" height="103" as="geometry" />
         </mxCell>
         <mxCell id="ljCB6P9vVv0pL_9FZat0-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="ljCB6P9vVv0pL_9FZat0-29">
           <mxGeometry y="55" width="140" height="8" as="geometry" />
