@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T21:56:05.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="vCZuU_jvM9eT4OCkte2R" version="22.1.5" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-12-03T21:59:56.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="L26Fr1mcXxIFO5zB5frX" version="22.1.5" type="github" pages="23">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="922" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -207,20 +207,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ckhJ_pzCdI-SZCY9QidI-1" value="Administration" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="240" y="280" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ckhJ_pzCdI-SZCY9QidI-2" value="Item" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="385" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="ckhJ_pzCdI-SZCY9QidI-3" value="Bid" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="510" y="280" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="ckhJ_pzCdI-SZCY9QidI-4" value="Auction" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="385" y="360" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RaKuB9mrCkrhKfY8MJtm-2" value="Transaction" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="510" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ckhJ_pzCdI-SZCY9QidI-4" value="AuctionItem" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="385" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RaKuB9mrCkrhKfY8MJtm-3" value="User" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="260" y="360" width="80" height="40" as="geometry" />
