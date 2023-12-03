@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T17:08:46.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="R0PknYuC8OGxYi7T9-GD" version="22.1.5" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-03T17:12:12.172Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="DH3SmNK95BsflZ6jwCSQ" version="22.1.5" type="github" pages="19">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1355,14 +1355,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-16" value="2:// &lt;font face=&quot;Tahoma&quot;&gt;send auction info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-16" value="2:// &lt;font face=&quot;Tahoma&quot;&gt;approveAuction(id)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" edge="1">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
             <mxPoint x="290" y="60" as="sourcePoint" />
             <mxPoint x="490" y="60" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-17" value="2:// &lt;font face=&quot;Tahoma&quot;&gt;send auction info&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" target="wV8O4FySQOhMKbsz80YE-18" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-17" value="2://&lt;font face=&quot;Tahoma&quot;&gt;approveAuctionItem(id)&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" target="wV8O4FySQOhMKbsz80YE-18" edge="1">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
             <mxPoint x="501" y="70" as="sourcePoint" />
             <mxPoint x="701" y="70" as="targetPoint" />
