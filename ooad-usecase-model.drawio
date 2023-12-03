@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T16:59:18.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="5RmRurX0GOKmxVQYU7FW" version="22.1.5" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2023-12-03T17:03:33.101Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="Mgifkz0dVhr-spydnjD5" version="22.1.5" type="github" pages="19">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -958,7 +958,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="LU11MAZa8F7QOrI1ezv3" name="VOPC manage auction">
-    <mxGraphModel dx="1877" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1011,7 +1011,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="816EreKn8hwW4tIqX-E0" name="VOPC manage account">
-    <mxGraphModel dx="1877" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1749" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1296,7 +1296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IY6yGDnaVHLEIWcdpeD_" name="manage auction des">
-    <mxGraphModel dx="1050" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="922" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1525,11 +1525,11 @@
             <mxPoint x="550" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-45" value=":ListAuctionPage" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-45" value=":ApproveAuctionForm" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="254" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-46" value=":AuctionController" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="464" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="wV8O4FySQOhMKbsz80YE-46" value=":AproveAuctionController" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="451" y="80" width="146" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rn_YMRtFpDk5TgYH-QR1-1" value=":IAuctionItemDatabase" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="684" y="80" width="120" height="40" as="geometry" />
