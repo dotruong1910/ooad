@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T17:41:50.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LpqYsqHmugScjVRFbAdC" version="22.1.5" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2023-12-03T17:43:26.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="BcObszNhlUWHAiICHqdH" version="22.1.5" type="github" pages="20">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1348,7 +1348,7 @@
         <mxCell id="wV8O4FySQOhMKbsz80YE-13" value="[disapprove auction]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="wV8O4FySQOhMKbsz80YE-11" vertex="1">
           <mxGeometry x="11" y="200" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-15" value="5:/ /&lt;font face=&quot;Tahoma&quot;&gt;click approve auction&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-15" value="6:/ /&lt;font face=&quot;Tahoma&quot;&gt;click approve auction&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="wV8O4FySQOhMKbsz80YE-11" edge="1">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
             <mxPoint x="91" y="40" as="sourcePoint" />
             <mxPoint x="279.9999999999998" y="40" as="targetPoint" />
@@ -1462,13 +1462,13 @@
         <mxCell id="wV8O4FySQOhMKbsz80YE-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="519" y="322.5" width="10" height="97.5" as="geometry" />
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2://getPendingAuctions()&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" target="wV8O4FySQOhMKbsz80YE-41" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-33" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.1:// getPendingAuctions()&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" target="wV8O4FySQOhMKbsz80YE-41" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="319" y="199.9999999999999" as="sourcePoint" />
             <mxPoint x="500" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;3:// &lt;/font&gt;searchAuctionItem()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" source="wV8O4FySQOhMKbsz80YE-41" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-34" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.2:// &lt;/font&gt;searchAuctionItem()" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" parent="1" source="wV8O4FySQOhMKbsz80YE-41" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="529" y="210" as="sourcePoint" />
             <mxPoint x="740" y="210" as="targetPoint" />
@@ -1481,7 +1481,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wV8O4FySQOhMKbsz80YE-37" value="3:// ask for bid information" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="1" edge="1">
+        <mxCell id="wV8O4FySQOhMKbsz80YE-37" value="5:// ask for bid information" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=open;startFill=0;dashed=1;" parent="1" edge="1">
           <mxGeometry x="-0.0035" width="80" relative="1" as="geometry">
             <mxPoint x="120" y="280" as="sourcePoint" />
             <mxPoint x="309" y="280" as="targetPoint" />
@@ -1527,7 +1527,7 @@
         <mxCell id="rn_YMRtFpDk5TgYH-QR1-1" value=":IAuctionItemDatabase" style="fontStyle=0;html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="684" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WD5ez_NLvr8Wf9PHyiW5-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;2://showPendingAuctions()&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
+        <mxCell id="WD5ez_NLvr8Wf9PHyiW5-2" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;1.3://showPendingAuctions()&lt;br&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=none;curved=0;rounded=0;endFill=0;startArrow=block;startFill=1;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="319" y="260" as="sourcePoint" />
             <mxPoint x="519" y="260" as="targetPoint" />
