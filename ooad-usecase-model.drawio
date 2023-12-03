@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T18:54:11.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="r_TqlUCBbHqyCx4hyMTQ" version="22.1.5" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2023-12-03T18:56:09.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="CZjyqy5vjMEc21djjqIH" version="22.1.5" type="github" pages="21">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2297,14 +2297,6 @@
             <mxPoint x="370" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0JXRqJo4YO9u5pdBvT1U-6" value="Middleware" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="530" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="0JXRqJo4YO9u5pdBvT1U-7" value="Text" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="0JXRqJo4YO9u5pdBvT1U-6">
-          <mxGeometry width="150" height="70" relative="1" as="geometry">
-            <mxPoint y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0JXRqJo4YO9u5pdBvT1U-10" value="View" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="270" y="60" width="140" height="80" as="geometry" />
         </mxCell>
@@ -2367,6 +2359,23 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="289" as="sourcePoint" />
             <mxPoint x="620" y="144" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvF0HBp1NlendVE2m5zo-1" value="Middleware" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;recursiveResize=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="585" width="320" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="tvF0HBp1NlendVE2m5zo-2" value="django.db.backends.sqlite3" style="shape=folder;fontStyle=1;tabWidth=165;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="tvF0HBp1NlendVE2m5zo-1">
+          <mxGeometry x="15" y="40" width="245" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tvF0HBp1NlendVE2m5zo-3" value="" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="tvF0HBp1NlendVE2m5zo-2">
+          <mxGeometry width="244.99999999999997" height="42" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvF0HBp1NlendVE2m5zo-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;startArrow=open;startFill=0;" edge="1" parent="1" source="tvF0HBp1NlendVE2m5zo-2" target="0JXRqJo4YO9u5pdBvT1U-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="560" as="sourcePoint" />
+            <mxPoint x="486" y="614" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
