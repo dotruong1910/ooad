@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T08:01:04.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="9sbIVLtywvjWeDc6wLcK" version="22.1.5" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2023-12-03T08:02:54.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="yjSrF2UwcZ8_YaV_Oc1h" version="22.1.5" type="github" pages="18">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1825,7 +1825,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UraR_FrcnI5AiErJoEM3" name="application package">
-    <mxGraphModel dx="2100" dy="1138" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="878" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1843,7 +1843,7 @@
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-23" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;SearchAuctionItemForm" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
           <mxGeometry x="15" y="140" width="165" height="43.75" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-22" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;SearchAuctionItemController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-22" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;SearchAuctionItemController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
           <mxGeometry x="15" y="50" width="165" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-3" source="Hmgjb03Vp7-G0mT9RNWe-23" target="Hmgjb03Vp7-G0mT9RNWe-22">
@@ -1852,7 +1852,7 @@
             <mxPoint x="65" y="-20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-29" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;ViewAuctionItemController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-29" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;ViewAuctionItemController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
           <mxGeometry x="15" y="200" width="165" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-28" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;ViewAuctionItemForm" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
@@ -1884,7 +1884,7 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-31" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;EditAuctionItemController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-31" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;EditAuctionItemController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.31999999999999" y="41.473684210526315" width="171.36" height="31.105263157894733" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-5" source="Hmgjb03Vp7-G0mT9RNWe-32" target="Hmgjb03Vp7-G0mT9RNWe-31">
@@ -1896,7 +1896,7 @@
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-5" source="Hmgjb03Vp7-G0mT9RNWe-33" target="Hmgjb03Vp7-G0mT9RNWe-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-33" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;CreateAuctionSessionController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-33" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;CreateAuctionSessionController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.31999999999999" y="191.82050239234448" width="171.36" height="44.77272727272727" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-34" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;CreateAuctionSessionForm&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
@@ -1905,19 +1905,19 @@
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-5" source="Hmgjb03Vp7-G0mT9RNWe-35" target="Hmgjb03Vp7-G0mT9RNWe-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-35" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;RemoveAuctionItemController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-35" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;RemoveAuctionItemController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.31999999999999" y="357.7076457587819" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-36" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RemoveAuctionItemnForm&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-36" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;RemoveAuctionItemnForm&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.32000000000002" y="451.0274385730368" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-37" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;BidController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-37" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;BidController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.32000000000002" y="825.0039314519328" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-38" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;MakeABidForm&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.32000000000002" y="927.9711429308563" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-43" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-43" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="49.32000000000002" y="523.6006716926003" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-45" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserForm&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
@@ -1926,7 +1926,7 @@
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-46" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.32000000000002" y="765.7332851580823" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-49" value="&lt;div&gt;&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-49" value="&lt;div&gt;&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;/div&gt;&lt;div&gt;UpdateUserController&lt;/div&gt;" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-5">
           <mxGeometry x="44.32" y="674.9987444882257" width="171.36" height="43.45588235294117" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-54" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-5" source="Hmgjb03Vp7-G0mT9RNWe-45" target="Hmgjb03Vp7-G0mT9RNWe-43">
@@ -1991,10 +1991,10 @@
             <mxPoint y="30" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-11" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;CreateUserController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-7">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-11" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;CreateUserController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-7">
           <mxGeometry x="27.5" y="50" width="145" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-16" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;CreateUserController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-7">
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-16" value="&amp;lt;&amp;lt;control&amp;gt;&amp;gt;&lt;br&gt;CreateUserController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-7">
           <mxGeometry x="27.5" y="230" width="145" height="43.75" as="geometry" />
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-17" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;CreateUserController" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-7">
