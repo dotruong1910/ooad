@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T05:25:59.010Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="RgcA0v6_YwJZv_eb3vlh" version="22.1.5" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-12-03T05:26:06.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="BO1Sk2M-tRalmOlGJ3KU" version="22.1.5" type="github" pages="15">
   <diagram name="Page-1" id="MPFB5hDKGBPq3vXqqCiy">
     <mxGraphModel dx="1722" dy="894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1857,6 +1857,12 @@
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-28" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;br&gt;ViewAuctionItemForm" style="html=1;align=center;verticalAlign=middle;dashed=0;whiteSpace=wrap;" vertex="1" parent="Hmgjb03Vp7-G0mT9RNWe-3">
           <mxGeometry x="15" y="280" width="165" height="43.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Hmgjb03Vp7-G0mT9RNWe-30" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="Hmgjb03Vp7-G0mT9RNWe-3" source="Hmgjb03Vp7-G0mT9RNWe-28" target="Hmgjb03Vp7-G0mT9RNWe-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="120" as="sourcePoint" />
+            <mxPoint x="65" y="70" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Hmgjb03Vp7-G0mT9RNWe-5" value="User Interaction" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="310" y="110" width="220" height="430" as="geometry" />
